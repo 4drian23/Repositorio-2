@@ -1,0 +1,7 @@
+Nombre: 
+FUE: 
+DES:
+CON:
+INT:
+SAB:
+CAR:
