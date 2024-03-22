@@ -1,4 +1,5 @@
 Nombre: 
+Clase:
 FUE: 
 DES:
 CON:
