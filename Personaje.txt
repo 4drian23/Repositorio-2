@@ -1,8 +1,8 @@
-Nombre: 
-Clase:
-FUE: 
-DES:
-CON:
-INT:
-SAB:
-CAR:
+Nombre: Ozzymandias 
+Clase: Barbaro
+FUE: 15
+DES: 12
+CON: 18
+INT: 11
+SAB: 12
+CAR: 9
