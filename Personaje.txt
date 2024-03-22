@@ -1,8 +1,8 @@
 Nombre: Ozzymandias 
-Clase: Barbaro
+Clase: Paladin
 FUE: 15
 DES: 12
 CON: 18
-INT: 11
+INT: 35
 SAB: 12
 CAR: 9
